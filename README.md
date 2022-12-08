@@ -1,3 +1,3 @@
 # Bloco-de-notas
 
-<h1>App cria do curso Android Master</h1>
+App criado no curso Android Master para entende como salvar dados localmente utilizando Shared Preferences
